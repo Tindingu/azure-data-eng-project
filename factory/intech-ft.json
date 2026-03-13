@@ -1,0 +1,9 @@
+{
+	"name": "intech-ft",
+	"location": "indonesiacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b536593d-7ae5-43fb-897e-e55a5ca80535",
+		"tenantId": "dd2c65dd-c1f1-4f12-9a0e-376ef8ea025e"
+	}
+}
